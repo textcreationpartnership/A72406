@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triades or trinities of Rome translated in to Englyshe Them that synne rebuke openly that other may feare and drede. Timo.v.</title>
+            <author>Hutten, Ulrich von, 1488-1523.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1535</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72406</idno>
+            <idno type="STC">STC 14027.5</idno>
+            <idno type="STC">ESTC S124880</idno>
+            <idno type="EEBO-CITATION">99900459</idno>
+            <idno type="PROQUEST">99900459</idno>
+            <idno type="VID">173238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2024:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triades or trinities of Rome translated in to Englyshe Them that synne rebuke openly that other may feare and drede. Timo.v.</title>
+                  <author>Hutten, Ulrich von, 1488-1523.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Tho. Godfray,</publisher>
+                  <pubPlace>[Printed at London :</pubPlace>
+                  <date>[1535?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Gathered in 4's.</note>
+                  <note>Publication date from STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173238:1" rendition="simple:additions"/>
+            <p>¶ The Triades or Trinites of Rome / tranſlated in to Englyſſhe. <g ref="char:leaf">❧</g>
+            </p>
+            <q>❀ Them that ſynne re<g ref="char:EOLunhyphen"/>buke ope<g ref="char:cmbAbbrStroke">̄</g>ly / that other may feare and drede. <bibl>.1. Timo. v.</bibl>
+            </q>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:173238:2"/>
+            <pb facs="tcp:173238:2"/>
+            <head>The preface</head>
+            <p>GEntell reder / ye ſhal ha<g ref="char:EOLunhyphen"/>ue here gadred togeder thoſe thynges / the whiche be eyther ſette by / vſed / or hated at Rome. That place trewly may be called Rome / where ſuch enormities be moche vſed. For ſo / after the mynde of Nicolas de Lira and other Saynte Peter in the ende of his fyrſt Epyſtell / <note place="margin">i. Pet. v.</note> called Ro<g ref="char:EOLhyphen"/>me by the name of Babilon / bycauſe it was in Idolatry / lechery / and pryde. &amp;c. at al poyntes lyke to it. And as it may be now called (for the ſa<g ref="char:EOLunhyphen"/>me thynges / yee / &amp; other mo<g ref="char:EOLhyphen"/>che worſe / if worſe may be) Sodoma or Gomurra / were it nat that they diffren in this one onely poynte / whiche is aboundau<g ref="char:cmbAbbrStroke">̄</g>ce of brede &amp; wyne.
+<pb facs="tcp:173238:3"/>
+For as in Gomurra &amp; Sodo<g ref="char:EOLunhyphen"/>me was great plentie of fode for euery man / ſo lykewiſe in Rome is the contrary therof / penury &amp; ſcarſeneſſe of vitell / yee of al goodneſſe / howbeit in that thynge / I thynke they agreen eche with other / ſo y<hi rend="sup">t</hi> Rome may well be called Go<g ref="char:EOLunhyphen"/>morra. Thinges gathered to<g ref="char:EOLunhyphen"/>gider / I ſay / to thentent that vice ones knowen / it may the better be eſchewed / and nat of malyce / as many (who nowe be rubbed on the gall) ſayen. For if it come of malyce open lye to reproue vyce in theym / whom he that hath but halfe an eye / may ſe daily w<hi rend="sup">t</hi>out all ſhame / &amp; eke the drede &amp; feare of god ſtyll to contynue &amp; de<g ref="char:EOLhyphen"/>lyte in their ſynne &amp; abhomi<g ref="char:EOLhyphen"/>nations.
+<pb facs="tcp:173238:3"/>
+Than ſurely / if it were nat to ſynne agaynſt the holy goſt to ſpeke ſuche a blaſ<g ref="char:EOLunhyphen"/>phemy / I wolde ſaye that all the prophetes / that all Chri<g ref="char:EOLhyphen"/>ſtes diſciples / yee / that Chriſt him ſelfe: Alas that I am co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pelled nowe to open my lyp<g ref="char:EOLhyphen"/>pes to pronou<g ref="char:cmbAbbrStroke">̄</g>ce this worde / <note place="margin">Eſa. xiii.</note> malicious / <note place="margin">Hier. l. li</note> who is all good &amp; full of the contrary to malyce that is charite / for my excuſe.<note place="margin">Dan. iiii</note> Did / I pray you / Eſaias / <note place="margin">i. Cor<g ref="char:cmbAbbrStroke">̄</g>. iiii v. vi.</note> Hi<g ref="char:EOLunhyphen"/>eremias / &amp; Daniel / repreue y<hi rend="sup">e</hi> babilonie<g ref="char:cmbAbbrStroke">̄</g>s / <note place="margin">Actuu<g ref="char:cmbAbbrStroke">̄</g>. v.</note> &amp; alſo their kyng Nabugodonoſor of malice?<note place="margin">Math. xxiii.</note> Rebuked ſait Paule the Co<g ref="char:EOLhyphen"/>rinthiens of their lyght iuge<g ref="char:EOLhyphen"/>ment &amp;<note place="margin">Luc. x.</note> of fornication of maly<g ref="char:EOLunhyphen"/>ce?<note place="margin">Mat. xi.</note> Was ſaint Peter induced to blame Ananias &amp; his wyfe Saphira / of crafte &amp; auarice
+<pb facs="tcp:173238:4"/>
+by malyce? Ye / to be ſhorte / dyd nat Chriſt laye hipocriſy to the ſcribes &amp; phariſes char<g ref="char:EOLunhyphen"/>ge / &amp; that ope<g ref="char:cmbAbbrStroke">̄</g>ly? Dyd he nat vpbrayde the cyte of Coroza<g ref="char:EOLhyphen"/>im / and other? but I hope ye wyll nat ſaye / inflamed with malyce. I paſſe ouer the ma<g ref="char:EOLhyphen"/>lyce / that ſaynt Ierome / ſaint Criſoſtome / &amp; Gyldas mona<g ref="char:EOLunhyphen"/>cus / vſen in reprofe of ſynne / writyng to byſſhops / to mon<g ref="char:EOLhyphen"/>kes / &amp; to all other kynde of pe<g ref="char:EOLunhyphen"/>ple (wherof their workes be full) leſt I ſhulde ſeme to fea<g ref="char:EOLunhyphen"/>re / y<hi rend="sup">t</hi> this alredy written were nat of ſtrength ynough to ꝑ<g ref="char:EOLhyphen"/>ſwade you / that it is nat of malyce. But hoow ſyr? So<g ref="char:cmbAbbrStroke">̄</g>e man wyll ſay / no ma<g ref="char:cmbAbbrStroke">̄</g> douteth of the goodneſſe of theſe men But thynke ye / that the wri<g ref="char:EOLhyphen"/>ters
+<pb facs="tcp:173238:4"/>
+nowe a dayes be of that ſort? Whether they be of that ſort or no / I wyl nothyng diſ<g ref="char:EOLunhyphen"/>pute / but me thinketh bicauſe it is an indifferent thynge / &amp; maye be lightly doone / ye are blame worthy them ſo to iuge For Chriſte ſayth:<note place="margin">Mat. vii</note> 
+               <hi>Nolite iu<g ref="char:EOLhyphen"/>dicare, et non iudicabimini.</hi> Whiche doctours expou<g ref="char:cmbAbbrStroke">̄</g>de to be mente of indiffere<g ref="char:cmbAbbrStroke">̄</g>t thyngꝭ. Agayn / either theſe thynges be fautes or nat fautes: that they be fautes / yee wyl nat a<g ref="char:EOLhyphen"/>gayn ſay I trow. That there be no ſuche fautes there v<g ref="char:EOLhyphen"/>ſed: I report me to your own co<g ref="char:cmbAbbrStroke">̄</g>ſcience / if this proue it nat / marke than commenly the ly<g ref="char:EOLhyphen"/>uyng of theſe Rome ro<g ref="char:cmbAbbrStroke">̄</g>ners / who although / that a very fewe of them wyll denye it to
+<pb facs="tcp:173238:5"/>
+be ſo at Ro<g ref="char:cmbAbbrStroke">̄</g>e by their mouth / Shal I warau<g ref="char:cmbAbbrStroke">̄</g>t you / co<g ref="char:cmbAbbrStroke">̄</g>feſſe it ope<g ref="char:cmbAbbrStroke">̄</g>ly in their lyuyng / Tha<g ref="char:cmbAbbrStroke">̄</g> me ſemeth that it were better to go about amendeme<g ref="char:cmbAbbrStroke">̄</g>t / than in diſprayſynge &amp; leying ma<g ref="char:EOLhyphen"/>lice to the auctors charge / ſe<g ref="char:EOLhyphen"/>me rather to holde and defen<g ref="char:EOLhyphen"/>de abuſion / than here of cor<g ref="char:EOLhyphen"/>rection / for we ſhulde rather conſyder what is written tha<g ref="char:cmbAbbrStroke">̄</g> the writer. And to conclude / if no man ſhulde rebuke ſynne other than ſuche / who<g ref="char:cmbAbbrStroke">̄</g> the Ro<g ref="char:EOLunhyphen"/>mayns call <hi>Miſſi.</hi>
+               <note place="margin">
+                  <hi>Miſſus</hi> Seute</note> The ſonne ſhulde ſoner lacke her lyght &amp; leaſe her heate / than they the deſyre &amp; pleaſure to contynue their abhomination. And mo<g ref="char:EOLunhyphen"/>re ouer Paſquyll the playne ſayth / if he ſhulde nat ſpeke agaynſt prelates vyces in Ro<g ref="char:EOLunhyphen"/>me
+<pb facs="tcp:173238:5"/>
+openly / but to them ſelfes preuyly in their cha<g ref="char:cmbAbbrStroke">̄</g>bres / that the mone wolde ſoner tourne him from an harde ſtone in to melow waxe / than he ſhulde be ſuffred to come in to one of their Palacyes: and bycauſe I thynke that Paſquyl ſayth trouth I haue torned this bo<g ref="char:EOLunhyphen"/>ke out of latin in to englyſhe as foloweth / for reformacion of ſynne.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>¶ The Triades / and co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:EOLhyphen"/>dities of Rome.</head>
+            <p>THre thynges there be that maynteyne the dignite of the cyte of Rome. The fyrſt / the auctorite of the byſſhoppe of Rome. the .ii. The relyques of ſayntes whi<g ref="char:EOLunhyphen"/>che
+<pb facs="tcp:173238:6"/>
+they ſhew for money. The iii. ſellyng of pardons.</p>
+            <p>It is gret ieoperdy to go to Rome / and that for thre thyn<g ref="char:EOLunhyphen"/>ges / the which Romero<g ref="char:cmbAbbrStroke">̄</g>ners co<g ref="char:cmbAbbrStroke">̄</g>menly brynge from thence. A corrupt co<g ref="char:cmbAbbrStroke">̄</g>ſcie<g ref="char:cmbAbbrStroke">̄</g>ces / a proude ſtomake / &amp; a beggers purce.</p>
+            <p>Rome is to be ſho<g ref="char:cmbAbbrStroke">̄</g>ned bycau<g ref="char:EOLunhyphen"/>ſe it is of theſe thre thynges / y<hi rend="sup">e</hi> deſtruction &amp; breche / as of a good conſcie<g ref="char:cmbAbbrStroke">̄</g>ce: of good zele to Chriſtes relygion / and of a mans othe &amp; fydelyte.</p>
+            <p>Theſe thynges be mocked at Rome / the exa<g ref="char:cmbAbbrStroke">̄</g>ple of good men / Saynt Peters facion both in lyuyng / and alſo his goyng aboute from place to place to preche the worde of god / and the iugement at do<g ref="char:EOLunhyphen"/>mes daye.</p>
+            <p>
+               <pb facs="tcp:173238:6"/>Theſe thre euery man may ſe at Rome / antycke or olde byl<g ref="char:EOLunhyphen"/>di<g ref="char:cmbAbbrStroke">̄</g>g / poyſo<g ref="char:cmbAbbrStroke">̄</g>nyng on the other and ruyne in monaſteries &amp; churches.</p>
+            <p>Thre thynges be banyſſhed Rome / Symplicyte / chaſtyte and honeſtye.</p>
+            <p>Thre thynges dayly be ſold at Rome / Chriſtes paſſyon / Benefyces / and women.</p>
+            <p>The Romayns hate to here of theſe thre thynges / as of a generall cou<g ref="char:cmbAbbrStroke">̄</g>ſell / a reformati<g ref="char:EOLhyphen"/>on of the clergy / and that ley men ſhuld haue the ſcripture in their moder tonge / or to be lerned.</p>
+            <p>They be ſore gerued with thre thi<g ref="char:cmbAbbrStroke">̄</g>ges at Rome / y<hi rend="sup">t</hi> Chri<g ref="char:EOLhyphen"/>ſten Princes ſhulde be at con<g ref="char:EOLhyphen"/>corde / that the people ſhulde
+<pb facs="tcp:173238:7"/>
+be brought out of their blyn<g ref="char:EOLhyphen"/>deneſſe / &amp; that their iuglyng ſhuld be eſpyed.</p>
+            <p>Thre thynges be chefely in price or value at Rome. The fyrſte / fayre women. The ſecond goodly &amp; fatte horſes. The. iii. the popes bulles.</p>
+            <p>Theſe thre be ſet nought by at Rome / good maydens / em<g ref="char:EOLunhyphen"/>ty purſes / nor a good &amp; wel lerned ma<g ref="char:cmbAbbrStroke">̄</g> / promoted or to be in power and auctorite.</p>
+            <p>Comenly of euery ma<g ref="char:cmbAbbrStroke">̄</g> / theſe thre thynges be vſed at Rome The pleaſure of the body / gor<g ref="char:EOLunhyphen"/>gyous aparel / pryde &amp; haute<g ref="char:EOLhyphen"/>neſſe of mynde.</p>
+            <p>They that be nat ydell nor well occupyed at Rome / do theſe thre thynges / Iette vp and downe / hunte harlottes / 
+<pb facs="tcp:173238:7"/>
+and haunte tauernes.</p>
+            <p>Theſe thre thynges be the delycate dyſſhes of poore me<g ref="char:cmbAbbrStroke">̄</g> at Rome / Rotes / onyons / &amp; garlycke.</p>
+            <p>And with theſe thre thynges be fatted the ryche men at Ro<g ref="char:EOLunhyphen"/>me. The labour &amp; ſwete of y<hi rend="sup">e</hi> pore men / vſury / and the pyl<g ref="char:EOLunhyphen"/>lyng and pollyng of chriſten people.</p>
+            <p>At Rome dwellen theſe thre as Cytezens / Symon Ma<g ref="char:EOLhyphen"/>gus / Iudas / And the people of Gomor and Sodome.</p>
+            <p>He hath nede of thre thyn<g ref="char:EOLhyphen"/>ges that hathe byſynes in the lawe at Rome / of money y<g ref="char:EOLhyphen"/>nough / of hyred frendes / and of lyes.</p>
+            <p>There be but thre thynges that rule al at Rome / As gret
+<pb facs="tcp:173238:8"/>
+gyftes and rewardes / carnal fauor / power &amp; wyl.</p>
+            <p>Thre thi<g ref="char:cmbAbbrStroke">̄</g>ges at Ro<g ref="char:cmbAbbrStroke">̄</g>e do ꝓmo<g ref="char:EOLunhyphen"/>te euery ma<g ref="char:cmbAbbrStroke">̄</g>. Brybes / flatery / and vnſhamfaſte boldeneſſe.</p>
+            <p>Thre cauſes there be why ſo many deſyred to go to Ro<g ref="char:EOLhyphen"/>me, The fyrſt / bycauſe they may be made preſtes there for money / be they neuer ſo folyſ<g ref="char:EOLhyphen"/>ſhe or vnlerned. The ſecond is gret luker in ſellyng there pardons &amp; good dedes whan they come home / &amp; the thyrde lyberty to lyue as they liſt the<g ref="char:cmbAbbrStroke">̄</g> ſelfes / <note place="margin">Capila<g ref="char:EOLhyphen"/>nus hono<g ref="char:EOLunhyphen"/>ris is the pops cha<g ref="char:EOLunhyphen"/>pelayne which is therby ex<g ref="char:EOLunhyphen"/>empt fro<g ref="char:cmbAbbrStroke">̄</g> the byſ<g ref="char:EOLhyphen"/>ſhoppes iuriſdic<g ref="char:EOLhyphen"/>tion.</note> be it neuer ſo noughti / as done theſe Capilani ho<g ref="char:EOLhyphen"/>noris.</p>
+            <p>Theſe thre thinges were the cauſe that the byſſhop of Ro<g ref="char:EOLhyphen"/>me dyd brynge a great parte of Chriſtendom in to his ſub<g ref="char:EOLhyphen"/>iection.
+<pb facs="tcp:173238:8"/>
+The wanton lyuyng of prynces / the ſophiſtry of the freres / which cauſed good lernyng to ceaſe / and ſuper<g ref="char:EOLhyphen"/>ſticion taught of blynde pree<g ref="char:EOLhyphen"/>ſtes to the vnlerned people.</p>
+            <p>Theſe thre thynges wyl cau<g ref="char:EOLunhyphen"/>ſe the tyra<g ref="char:cmbAbbrStroke">̄</g>ny of Rome to ceaſe The ſtudy of holy ſcrypture / the new Teſtament wel tran<g ref="char:EOLunhyphen"/>ſlated in the mother tonge / a decay of flaters / for whome it is vnpoſſyble to co<g ref="char:cmbAbbrStroke">̄</g>tinue / y<hi rend="sup">e</hi> pope decaying.</p>
+            <p>Thre thynges be the foun<g ref="char:EOLhyphen"/>ders of Rome / iniuſte warre / the crafte that hath bene vſed to get money for the byldyng of ſaynt Peters Church / and in tyme paſt / Ipocriſy / or fay<g ref="char:EOLunhyphen"/>ned holynes.</p>
+            <p>Thre nettes wherwith they
+<pb facs="tcp:173238:9"/>
+fyſſhe at Rome / Pardons / the Iubyle / and the faculte &amp; power graunted to legates &amp; cardinals in euery countrey.</p>
+            <p>Thre thynges be euer in hande at Rome / but neuer fy<g ref="char:EOLunhyphen"/>nyſſhed. The blyſſe &amp; immor<g ref="char:EOLunhyphen"/>talyte of the ſoule / y<hi rend="sup">e</hi> makyng vp of Saynt Peters church / and to go in warre agaynſte the Turkes.</p>
+            <p>Theſe thre thynges ye ſhall ſcante compell a Romayn to do / to kepe his promyſe and faythe / to wayte on any man with out promyſe or hope of promotyon / and the thryde to gyue the waye to any man.</p>
+            <p>Rome hath great plenty of theſe thre thynges / hores / pre<g ref="char:EOLhyphen"/>ſtes / and ſcrybes.</p>
+            <p>A ſhorte maſſe / olde golde / 
+<pb facs="tcp:173238:9"/>
+and a delycate lyfe. Of any of theſe thre thynges are moſte ſet by at Rome.</p>
+            <p>The Romayns clayme thre thynges onely to them ſelues</p>
+            <p>The gret byſſhoppe / the co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>nynge in poyſonynge / and a crafty way to gette gret ſom<g ref="char:EOLhyphen"/>mes of money.</p>
+            <p>Theſe thre thiges be nat ſo co<g ref="char:cmbAbbrStroke">̄</g>men in no cyte of the worl<g ref="char:EOLhyphen"/>de / as in Rome. Men of all contreys / the vniuerſal ſtudy of auaryce / and men that can tell money in all la<g ref="char:cmbAbbrStroke">̄</g>guages.</p>
+            <p>The romais in eſpecial hate thre thynges. That the elec<g ref="char:EOLhyphen"/>tion of biſſhoppes ſhuld be in te<g ref="char:cmbAbbrStroke">̄</g>poral princes handes. The ſtatutes of mortemaine / &amp; pre<g ref="char:EOLunhyphen"/>munite / &amp; that preſtes ſhulde be put to anſwere before a lay
+<pb facs="tcp:173238:10"/>
+Iuge.</p>
+            <p>Rydyng on moylles / Cur<g ref="char:EOLhyphen"/>rours or poſtes / and bleſſyn<g ref="char:EOLhyphen"/>ges / be thre co<g ref="char:cmbAbbrStroke">̄</g>mune thiges at Rome.</p>
+            <p>Ye ſhall ſee at Rome euery<g ref="char:EOLhyphen"/>where theſe thre: Holy places Strumpets / and goodly olde buylding.</p>
+            <p>Theſe thre be baniſſhed Ro<g ref="char:EOLunhyphen"/>me. <hi>Primatiua eccleſia.</hi> Tru<g ref="char:EOLhyphen"/>the / and preching of biſſhop<g ref="char:EOLhyphen"/>pes.</p>
+            <p>The thre inſtrumentes of a<g ref="char:EOLhyphen"/>uaryce at Rome / waxe / par<g ref="char:EOLhyphen"/>chement / and ledde.</p>
+            <p>Thre thynges be deſpyſed at Rome / Pouerty / the feare of god / and rightwiſeneſſe.</p>
+            <p>He that will learne thre pro<g ref="char:EOLunhyphen"/>per thynges / Let him go to rome / To make delycate ban<g ref="char:EOLhyphen"/>kets
+<pb facs="tcp:173238:10"/>
+/ howe to diſſeyue / and the abuſe of the fleſſhe.</p>
+            <p>Thre thynges be well clo<g ref="char:EOLhyphen"/>thed and trymmed at Rome / Preſtes / Moyllis / co<g ref="char:cmbAbbrStroke">̄</g>cubines / and harlottes.</p>
+            <p>Thre thinges they do nat be leaue at Rome. <hi>Animarum im<g ref="char:EOLunhyphen"/>mortalitatem, co<g ref="char:cmbAbbrStroke">̄</g>ionem ſancto<g ref="char:EOLhyphen"/>rum, et inferiorum penas.</hi>
+            </p>
+            <p>They bragge at Rome mo<g ref="char:EOLhyphen"/>che of thre thynges / and yet they haue them nat. Loue to god and to their neyghbour / faithe / and innocency.</p>
+            <p>Thre thynges be at Rome / howbeit they are but ſildome ſeen. Olde golde / the pope / And beutyfull wyues.</p>
+            <p>Thre thynges be very dere at Rome: Offyces / Equyte or Right / and Frendſhyppe.</p>
+            <p>
+               <pb facs="tcp:173238:11"/>Thre thinges ye maye kiſſe at Rome / if ye intend to offre. The auters / Chekes / for ſo they kyſſe there / and with la<g ref="char:EOLhyphen"/>bour &amp; rewardes / the popes fette.</p>
+            <p>Thre thynges be commenly ſeen in the churche of Rome / namely in abbeys &amp; colleges. Tables / wherein be written myracles / a boxe at euery ima<g ref="char:EOLunhyphen"/>mages foote to drowne in mo<g ref="char:EOLunhyphen"/>ney / and very lytell waxe / ye / ſcante a lyght before the ſacra<g ref="char:EOLunhyphen"/>ment.</p>
+            <p>Thre thynges do reygne at Rome. The pope / poyſon / &amp; curſyng.</p>
+            <p>Rome is vexed with thre e<g ref="char:EOLhyphen"/>uylles / with hote ſykeneſſes as the peſtylence agew. &amp;c. with pouertye / and fraude or
+<pb facs="tcp:173238:11"/>
+diſceyte.</p>
+            <p>Thre diſcommodites of Ro<g ref="char:EOLunhyphen"/>me / darth of vitayle / falſhod / and the intemperate ayer.</p>
+            <p>And theſe thre thynges we<g ref="char:EOLhyphen"/>re nat / Rome ſhold decay / bul<g ref="char:EOLunhyphen"/>les / aduocates / and procura<g ref="char:EOLhyphen"/>tours.</p>
+            <p>Thre thynges neuer come oft ynowe to Rome / Byſſhop<g ref="char:EOLunhyphen"/>pes paules / <hi>Menſis papales, et anuates.</hi>
+            </p>
+            <div type="poem">
+               <head>¶ Lenuoye</head>
+               <lg>
+                  <l>NOwe lette vs pray</l>
+                  <l>All that we may</l>
+                  <l>Of god / grace to optayne</l>
+                  <l>Our lyues to amende</l>
+                  <l>And heuyn at our ende</l>
+                  <l>Which is blyſſe certayne</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:173238:12"/>
+                  <l>For to be angry</l>
+                  <l>It is but a folly</l>
+                  <l>I tell you by ſaynt Paull</l>
+                  <l>For all men thynketh</l>
+                  <l>That an horſe wyncheth</l>
+                  <l>Whan he is rubbed on y<hi rend="sup">e</hi> gall</l>
+               </lg>
+               <lg>
+                  <l>It is nat ſpekyng</l>
+                  <l>No / nor yet thretnyng</l>
+                  <l>That wyll make me to ſeace</l>
+                  <l>But good lyueng</l>
+                  <l>And trewe teachyng</l>
+                  <l>Wyll make me hold my peace</l>
+               </lg>
+               <lg>
+                  <l>Sirs / wherefore</l>
+                  <l>If ye wyll no more</l>
+                  <l>Of this gladly to here</l>
+                  <l>ye muſt begynne</l>
+                  <l>A newe ſonge to ſyng</l>
+                  <l>In Chriſtes quere</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:173238:12"/>
+                  <l>Whiche if ye do</l>
+                  <l>Or helpe therto</l>
+                  <l>I tell you verily</l>
+                  <l>I wyll nat write</l>
+                  <l>Nor yet endyte</l>
+                  <l>Agaynſt you trewly</l>
+               </lg>
+               <lg>
+                  <l>But contrary</l>
+                  <l>If Chriſt and you varry</l>
+                  <l>By hym I ſware</l>
+                  <l>I wyll nat ſpare</l>
+                  <l>To paynt your flours</l>
+                  <l>Euyn in your owne colours.</l>
+               </lg>
+            </div>
+            <trailer>Finis</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Printed at London by Tho. Godfray.</p>
+            <p>¶ Cum priuilegio regali.</p>
+            <pb facs="tcp:173238:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
